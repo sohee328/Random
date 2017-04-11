@@ -1,0 +1,65 @@
+.container{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn btn-primary btn-lg{
+    font-size: 60px;
+    color: #ED3280;
+}
+nav{
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    background-color: #F3AFC7;
+}
+a{
+    font-size: 15px;
+    float: right;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    padding-left: 10px;
+    margin-top: 25.5px;
+}
+header{
+    width: 100%;
+    height: 600px;
+    color:#ED3280;
+    background-image:url(https://travelblog.expedia.co.kr/wp-content/uploads/2016/03/9.jpg);
+    background-size:100%; 
+    border: 1px solid black;
+    text-align:center;
+    margin-top: auto;
+}
+h2{
+    font-size: 70px;
+    font-family: Arial;
+    color: #ED3280;
+}
+p{
+    font-size: 25px;
+    font-family: times;
+    text-align:center;
+    color: black;
+    
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+footer{
+    width: 100%;
+    border: 1px solid black;
+    color:black;
+    background-color: #F3AFC7;
+    padding-bottom: 30px;
+    text-align:center;
+}
+h1{
+    display: inline-block;
+    /*font-size: 60px;*/
+    text-align: center;
+    color: black;
+    margin-top: auto;
+}
